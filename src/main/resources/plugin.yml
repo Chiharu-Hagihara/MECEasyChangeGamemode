@@ -1,0 +1,12 @@
+name: MECEasyChangeGamemode
+version: ${project.version}
+main: mc.mec.meceasychangegamemode.MECEasyChangeGamemode
+api-version: 1.13
+author: Mr_El_Capitan
+commands:
+  gm:
+  0:
+  1:
+  2:
+  3:
+
